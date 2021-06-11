@@ -1,0 +1,8 @@
+target/
+build/
+out/
+*.iml
+.idea/
+/src/main/java/com/hide/all
+/src/main/java/com/some/One.java
+/src/main/java/com/some/Two.java
